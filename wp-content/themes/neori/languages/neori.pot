@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Neori\n"
+"POT-Creation-Date: 2018-04-03 14:58+0300\n"
+"PO-Revision-Date: 2018-04-03 14:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404 - Not Found"
+msgstr ""
+
+#: 404.php:15
+msgid "What are you looking for is not here anymore."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:63
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:22
+msgid "Header"
+msgstr ""
+
+#: functions.php:27
+msgid "Footer"
+msgstr ""
+
+#: functions.php:86
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:88
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:96
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Use this for WooCommerce widgets."
+msgstr ""
+
+#: functions.php:310
+msgid "<i class=\"fa fa-angle-left\"></i> Newer Posts"
+msgstr ""
+
+#: functions.php:316
+msgid "Older Posts <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: functions.php:341
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:347
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:357
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/recent-posts-widget.php:20
+msgid "Neori: Recent posts"
+msgstr ""
+
+#: inc/recent-posts-widget.php:23
+msgid "A widget that displays latest posts"
+msgstr ""
+
+#: inc/responsive-banner-widget.php:20
+msgid "Neori: Responsive banner"
+msgstr ""
+
+#: inc/responsive-banner-widget.php:23
+msgid "A widget that makes it easy to add a responsive banner."
+msgstr ""
+
+#: inc/responsive-banner-widget.php:83
+msgid "Title:"
+msgstr ""
+
+#: inc/responsive-banner-widget.php:88
+msgid "Image Link:"
+msgstr ""
+
+#: inc/responsive-banner-widget.php:93
+msgid "Target URL:"
+msgstr ""
+
+#: search.php:9
+#, php-format
+msgid "&#34;%s &#34;"
+msgstr ""
+
+#: template-parts/content-blog.php:33 template-parts/content-blog.php:69
+#: template-parts/slices/content-type3-2.php:55
+msgid " Comments"
+msgstr ""
+
+#: template-parts/content-blog.php:33 template-parts/content-blog.php:69
+#: template-parts/slices/content-type3-2.php:55
+msgid " Comment"
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:7
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/page/content-page-default-sl.php:22
+#: template-parts/page/content-page-default-sr.php:16
+#: template-parts/page/content-page-notitle-sl.php:20
+#: template-parts/page/content-page-notitle-sr.php:14
+#: template-parts/page/content-page-notitle.php:14
+#: template-parts/page/content-page.php:16
+#: template-parts/single/content-single-classic-boxed-gallery.php:80
+#: template-parts/single/content-single-classic-boxed-ns-gallery.php:81
+#: template-parts/single/content-single-classic-boxed-ns-video.php:98
+#: template-parts/single/content-single-classic-boxed-ns.php:80
+#: template-parts/single/content-single-classic-boxed-sl-gallery.php:86
+#: template-parts/single/content-single-classic-boxed-sl-video.php:104
+#: template-parts/single/content-single-classic-boxed-sl.php:86
+#: template-parts/single/content-single-classic-boxed-video.php:98
+#: template-parts/single/content-single-classic-boxed.php:80
+#: template-parts/single/content-single-classic-fullwidth-gallery.php:84
+#: template-parts/single/content-single-classic-fullwidth-ns-gallery.php:83
+#: template-parts/single/content-single-classic-fullwidth-ns-video.php:98
+#: template-parts/single/content-single-classic-fullwidth-ns.php:84
+#: template-parts/single/content-single-classic-fullwidth-sl-gallery.php:90
+#: template-parts/single/content-single-classic-fullwidth-sl-video.php:104
+#: template-parts/single/content-single-classic-fullwidth-sl.php:91
+#: template-parts/single/content-single-classic-fullwidth-video.php:98
+#: template-parts/single/content-single-classic-fullwidth.php:84
+#: template-parts/single/content-single-classic-gallery.php:74
+#: template-parts/single/content-single-classic-ns-gallery.php:74
+#: template-parts/single/content-single-classic-ns-video.php:92
+#: template-parts/single/content-single-classic-ns.php:74
+#: template-parts/single/content-single-classic-sl-gallery.php:80
+#: template-parts/single/content-single-classic-sl-video.php:98
+#: template-parts/single/content-single-classic-sl.php:80
+#: template-parts/single/content-single-classic-video.php:92
+#: template-parts/single/content-single-classic.php:74
+#: template-parts/single/content-single-default-boxed-gallery.php:94
+#: template-parts/single/content-single-default-boxed-ns-gallery.php:94
+#: template-parts/single/content-single-default-boxed-ns-video.php:112
+#: template-parts/single/content-single-default-boxed-ns.php:98
+#: template-parts/single/content-single-default-boxed-sl-gallery.php:100
+#: template-parts/single/content-single-default-boxed-sl-video.php:118
+#: template-parts/single/content-single-default-boxed-sl.php:104
+#: template-parts/single/content-single-default-boxed-video.php:112
+#: template-parts/single/content-single-default-boxed.php:98
+#: template-parts/single/content-single-default-ns-gallery.php:94
+#: template-parts/single/content-single-default-ns-video.php:112
+#: template-parts/single/content-single-default-ns.php:98
+#: template-parts/single/content-single-default-sl-gallery.php:100
+#: template-parts/single/content-single-default-sl-video.php:118
+#: template-parts/single/content-single-default-sl.php:104
+#: template-parts/single/content-single-gallery.php:94
+#: template-parts/single/content-single-video.php:112
+#: template-parts/single/content-single.php:98
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/single/content-single-classic-boxed-gallery.php:69
+#: template-parts/single/content-single-classic-boxed-ns-gallery.php:70
+#: template-parts/single/content-single-classic-boxed-ns-video.php:87
+#: template-parts/single/content-single-classic-boxed-ns.php:69
+#: template-parts/single/content-single-classic-boxed-sl-gallery.php:75
+#: template-parts/single/content-single-classic-boxed-sl-video.php:93
+#: template-parts/single/content-single-classic-boxed-sl.php:75
+#: template-parts/single/content-single-classic-boxed-video.php:87
+#: template-parts/single/content-single-classic-boxed.php:69
+#: template-parts/single/content-single-classic-fullwidth-gallery.php:73
+#: template-parts/single/content-single-classic-fullwidth-ns-gallery.php:72
+#: template-parts/single/content-single-classic-fullwidth-ns-video.php:87
+#: template-parts/single/content-single-classic-fullwidth-ns.php:73
+#: template-parts/single/content-single-classic-fullwidth-sl-gallery.php:79
+#: template-parts/single/content-single-classic-fullwidth-sl-video.php:93
+#: template-parts/single/content-single-classic-fullwidth-sl.php:80
+#: template-parts/single/content-single-classic-fullwidth-video.php:87
+#: template-parts/single/content-single-classic-fullwidth.php:73
+#: template-parts/single/content-single-classic-gallery.php:63
+#: template-parts/single/content-single-classic-ns-gallery.php:63
+#: template-parts/single/content-single-classic-ns-video.php:81
+#: template-parts/single/content-single-classic-ns.php:63
+#: template-parts/single/content-single-classic-sl-gallery.php:69
+#: template-parts/single/content-single-classic-sl-video.php:87
+#: template-parts/single/content-single-classic-sl.php:69
+#: template-parts/single/content-single-classic-video.php:81
+#: template-parts/single/content-single-classic.php:63
+#: template-parts/single/content-single-default-boxed-gallery.php:83
+#: template-parts/single/content-single-default-boxed-ns-gallery.php:83
+#: template-parts/single/content-single-default-boxed-ns-video.php:101
+#: template-parts/single/content-single-default-boxed-ns.php:87
+#: template-parts/single/content-single-default-boxed-sl-gallery.php:89
+#: template-parts/single/content-single-default-boxed-sl-video.php:107
+#: template-parts/single/content-single-default-boxed-sl.php:93
+#: template-parts/single/content-single-default-boxed-video.php:101
+#: template-parts/single/content-single-default-boxed.php:87
+#: template-parts/single/content-single-default-ns-gallery.php:83
+#: template-parts/single/content-single-default-ns-video.php:101
+#: template-parts/single/content-single-default-ns.php:87
+#: template-parts/single/content-single-default-sl-gallery.php:89
+#: template-parts/single/content-single-default-sl-video.php:107
+#: template-parts/single/content-single-default-sl.php:93
+#: template-parts/single/content-single-gallery.php:83
+#: template-parts/single/content-single-video.php:101
+#: template-parts/single/content-single.php:87
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/slices/type7.php:45
+msgid "More Posts"
+msgstr ""
